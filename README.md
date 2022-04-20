@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Max.👋
 
-<!--
-**maxiDroiid/maxiDroiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-iMaxiDroiid-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iMaxiDroiid)](https://twitter.com/iMaxiDroiid)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-Here are some ideas to get you started:
+-  **Learning :** Programming :zap: | Open-Source :fire:	
+-  **Languages :** JavaScrip, Python, PHP
+-  **Hobbies :** soccer & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=maxiDroiid&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
