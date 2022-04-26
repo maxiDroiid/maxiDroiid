@@ -5,7 +5,7 @@
 ### About
 
 -  **Learning :** Programming :zap: | Open-Source :fire:	
--  **Languages :** JavaScrip, Python, PHP
+-  **Languages :** JavaScript, Python, PHP
 -  **Hobbies :** soccer & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
